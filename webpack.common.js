@@ -13,7 +13,7 @@ const VueLoaderPlugin = require('vue-loader/lib/plugin');
 const WebpackNotifierPlugin = require('webpack-notifier');
 
 // config files
-const pkg = require('../package.json');
+const pkg = require('./package.json');
 const settings = require('./webpack.settings.js');
 
 // Configure Babel loader

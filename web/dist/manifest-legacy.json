@@ -1,0 +1,7 @@
+{
+  "app.js": "http://localhost:8080/js/app-legacy.c5a8d0383b2407c7d871.js",
+  "confetti.js": "http://localhost:8080/js/confetti-legacy.c5a8d0383b2407c7d871.js",
+  "vendors~confetti.js": "http://localhost:8080/js/vendors~confetti-legacy.c5a8d0383b2407c7d871.js",
+  "vendors~confetti~vue.js": "http://localhost:8080/js/vendors~confetti~vue-legacy.c5a8d0383b2407c7d871.js",
+  "js/workbox-catch-handler.js": "http://localhost:8080/js/workbox-catch-handler.js"
+}
