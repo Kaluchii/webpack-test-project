@@ -29,6 +29,7 @@ const configureDevServer = (buildType) => {
         quiet: true,
         hot: true,
         hotOnly: true,
+        open: true,
         overlay: true,
         stats: 'errors-only',
         watchOptions: {

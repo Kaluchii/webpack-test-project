@@ -2,8 +2,8 @@
  * @project        Example Project
  * @name           vendors~confetti~vue.29287e78f44d5e0020b2.js
  * @author         Example Developer
- * @build          Mon, Dec 24, 2018 1:40 PM ET
- * @release        11b052c7c21ac2076da3422ac813d896cbc5946b [master]
+ * @build          Tue, Dec 25, 2018 3:16 PM ET
+ * @release        3bcbca05c7c3d94bfded748c0ebcbe436642a6f0 [master]
  * @copyright      Copyright (c) 2018 Example Company, Inc.
  *
  */

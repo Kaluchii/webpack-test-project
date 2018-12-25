@@ -1,6 +1,10 @@
 {
-  "app.js": "http://localhost:8080/js/app.7870634677bfb70674bb.js",
-  "confetti.js": "http://localhost:8080/js/confetti.7870634677bfb70674bb.js",
-  "vendors~confetti.js": "http://localhost:8080/js/vendors~confetti.7870634677bfb70674bb.js",
-  "vendors~confetti~vue.js": "http://localhost:8080/js/vendors~confetti~vue.7870634677bfb70674bb.js"
+  "vendors~confetti~vue.js": "/dist/js/vendors~confetti~vue.29287e78f44d5e0020b2.js",
+  "vendors~confetti~vue.js.map": "/dist/js/vendors~confetti~vue.29287e78f44d5e0020b2.js.map",
+  "app.js": "/dist/js/app.dc5fb9c33f0440f22a39.js",
+  "app.js.map": "/dist/js/app.dc5fb9c33f0440f22a39.js.map",
+  "confetti.js": "/dist/js/confetti.bc230584ed980a518c41.js",
+  "confetti.js.map": "/dist/js/confetti.bc230584ed980a518c41.js.map",
+  "../sw.js": "/dist/../sw.js",
+  "js/precache-manifest.js": "/dist/js/precache-manifest.1e9021e9b1b88c329f543af42f9d69e0.js"
 }
